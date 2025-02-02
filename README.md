@@ -1,3 +1,5 @@
+# How it works
+
 1- First get your free coinmarketcap api key
 
 2- replace it in this file
