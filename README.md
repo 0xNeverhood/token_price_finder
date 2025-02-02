@@ -4,7 +4,7 @@
 
 2- replace it in this file
 
-3- in google sheets you can use this function like this:
+3- <span style="color: blue">in google sheets you can use this function like this:</span>
 
 `=getCryptoPrices("BTC,ETH,XRP")`
 
