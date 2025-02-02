@@ -1,4 +1,4 @@
-function getCryptoPrices2(symbolList) {
+function getCryptoPrices(symbolList) {
   var apiKey = "CoinMarketCap_API_Key_Here"; //Put your own coinmarketcap api key here
   var apiUrl = "https://pro-api.coinmarketcap.com/v1/cryptocurrency/quotes/latest?symbol=" + symbolList + "&convert=USD";
   
