@@ -6,6 +6,6 @@
 
 3- in google sheets you can use this function like this:
 
-=getCryptoPrices("BTC,ETH,XRP")
+`=getCryptoPrices("BTC,ETH,XRP")`
 
 4- You can find token symbols in coinmarketcap api docs
